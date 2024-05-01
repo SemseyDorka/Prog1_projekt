@@ -1,7 +1,7 @@
 # Prog1_projekt
-2023/24_1 programozás 1 mini projekt
+2023/24_1 programozás 1 mini projekt 
 
-usage: alap <template> <option>
+usage: alap template option
 
  Options:
  
